@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Caragay Linear Layout</string>
+    <string name="login">Email or phone number</string>
+    <string name="password">Password</string>
+    <string name="btn">Log In</string>
+
+</resources>
